@@ -1,6 +1,6 @@
 # EEMI, l'école des métiers du Digital : avis
 
-<p>L'EEMI, École Européenne des Métiers de l'Internet, est souvent présentée comme une référence pour les <strong>métiers du web</strong> en France. Située à Paris, elle promet une <strong>formation digitale</strong> complète et adaptée au marché actuel. Pourtant, de nombreux <strong>avis étudiants</strong> peignent un tout autre tableau, décrivant cette école comme une véritable arnaque. Cet article se penche sur les raisons pour lesquelles il pourrait être risqué de s'y inscrire.</p>
+<p>En raison de sa communication agressive sur internet, l'EEMI, École Européenne des Métiers de l'Internet, est souvent présentée comme une référence pour les <strong>métiers du web</strong> en France. Située à Paris, elle promet une <strong>formation digitale</strong> complète et adaptée au marché actuel. Pourtant, de nombreux <strong>avis étudiants</strong> peignent un tout autre tableau, décrivant cette école comme une véritable arnaque. Cet article se penche sur les raisons pour lesquelles il pourrait être risqué de s'y inscrire.</p>
 
 <h2>Les promesses non tenues de l'EEMI</h2>
 
