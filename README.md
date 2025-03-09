@@ -4,7 +4,7 @@
 
 <h2>Les promesses non tenues de l'EEMI</h2>
 
-<p>Quand une école prétend former à tous les aspects du digital et du web, on s'attend à une solide préparation aux <strong>débouchés professionnels</strong>. Cependant, l'EEMI semble manquer à ses engagements selon plusieurs témoignages. De nombreux étudiants ont exprimé leur mécontentement quant à la qualité de l'enseignement qu'ils y ont reçu.</p>
+<p>Quand une école prétend former à tous les aspects du digital et du web, on s'attend à une solide préparation aux <strong>débouchés professionnels</strong>. Cependant, l'EEMI semble manquer à ses engagements <a href="https://fr.trustpilot.com/review/eemi.com">selon plusieurs témoignages</a>. De nombreux étudiants ont exprimé leur mécontentement quant à la qualité de l'enseignement qu'ils y ont reçu.</p>
 
 <p>Bien que l'école soit bien située à Paris, près de nombreuses entreprises potentiellement partenaires, cela ne compense pas les lacunes observées. La <strong>formation digitale</strong> annoncée par l'école ne correspond souvent pas aux besoins réels du secteur professionnel. Les cours sont jugés vieillissants et peu pertinents, ce qui laisse les élèves mal préparés pour le monde du travail.</p>
 
