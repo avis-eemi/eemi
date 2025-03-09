@@ -18,7 +18,7 @@
 
 <p>L'un des aspects les plus alarmants de l'EEMI réside dans ses <strong>frais de scolarité</strong>, qui sont considérablement élevés. Beaucoup trouvent difficile de justifier un tel investissement face à une offre pédagogique restreinte. L'investissement financier n'est pas négligeable, surtout lorsque l'on considère le faible retour sur investissement procuré par cette école.</p>
 
-<p>Dépenses pour le logement, le transport et la vie courante à Paris se combinent à des coûts scolaires qui pourraient sembler disproportionnés vis-à-vis des bénéfices éducationnels effectivement reçus. En conséquence, certains étudiants regrettent amèrement d'avoir choisi cette école pour leur apprentissage professionnel.</p>
+<p>Dépenses pour le logement, le transport et la vie courante à Paris se combinent à des coûts scolaires qui pourraient sembler disproportionnés vis-à-vis des bénéfices éducationnels effectivement reçus. En conséquence, certains <a href="https://github.com/avis-eemi/eemi">avis EEMI</a> d'étudiants regrettent amèrement d'avoir choisi cette école pour leur apprentissage professionnel.</p>
 
 <h3>Un manque criant de transparence</h3>
 
